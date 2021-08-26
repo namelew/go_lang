@@ -3,9 +3,9 @@ package main
 import "fmt"
 
 const(
-	x = iota; // iota is an untype integer i++
-	y = iota;
-	z = iota;
+	x = iota + 1 // iota is an untype integer i++
+	y
+	z
 )
 
 func main(){
