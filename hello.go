@@ -1,4 +1,4 @@
-package main
+//package main // comentando pra evitar erros no próximo programa
 
 import "fmt"
 
